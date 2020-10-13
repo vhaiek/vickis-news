@@ -1,0 +1,122 @@
+.navbar{
+    margin-top:60px;}   
+.navbar ul{
+    border-top: lightgrey solid 0.65px;
+    list-style:none;
+    font-family: medium-content-sans-serif-font, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif;
+    font-size:14px;
+    color: grey;
+    word-spacing:30px;}
+.navbar li{
+    display: inline;} 
+a{
+    text-decoration:none;
+    color: gray}
+a:hover{
+    color: black;}
+.imgnav{
+    width:125px;
+    height:36px;
+    margin-left:10px;}
+.imgbody1{
+    width:670px; 
+    height:380pix; 
+    margin-left:350px; 
+    margin-top:20px}
+h1{
+    margin-left:350px;
+    margin-right:350px;
+    margin-bottom:5px;
+    margin-top:15px;
+    font-size:46px;
+    color: rgba(41, 41, 41, 1);
+    font-family:medium-content-title-font, Georgia, Cambria, "Times New Roman", Times, serif;
+    line-height:60px;
+    font-weight:470;}
+h2{
+    margin-left:350px;
+    margin-right:350px;
+    color: rgba(117, 117, 117, 1);
+    font-weight:550;
+    font-size:19px;
+    font-family: medium-content-sans-serif-font, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif;
+    line-height:24px;}
+.subtitle{
+    font-style:italic;
+    margin-left:350px;
+    margin-right:350px;
+    color: rgba(41, 41, 41, 1);
+    line-height: 28px;
+    font-size: 18px;
+    font-family: medium-content-serif-font, Georgia, Cambria, "Times New Roman", Times, serif;
+    font-weight: 400;}
+h4{
+    margin-left:350px;
+    margin-right:350px;
+    font-weight:400px bold;
+    font-family: medium-content-serif-font, Georgia, Cambria, "Times New Roman", Times, serif;
+    line-height: 28px;
+    font-size: 17px;
+    color: rgba(41, 41, 41, 1);}
+p{
+    margin-left:350px;
+    margin-right:350px;
+    line-height: 28px;
+    font-size: 18px;
+    font-family: medium-content-serif-font, Georgia, Cambria, "Times New Roman", Times, serif;
+    color: rgba(41, 41, 41, 1);
+    font-weight: 400;}
+.footer{
+    border-top: lightgrey solid 0.65px;}
+.imgfot{   
+    margin-right:350px;
+    margin-left:350px;
+    margin-top:15px;
+    width:80px; 
+    height:80px;
+    border-radius:50%;}
+h3{
+    margin-right:350px;
+    margin-left:350px;
+    margin-top:5px;
+    margin-bottom:0;
+    line-height: 18px;
+    font-size: 14px;
+    color: rgba(117, 117, 117, 1);
+    font-weight: 300;
+    font-family: medium-content-sans-serif-font, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif;}
+h5{
+    margin-right:350px;
+    margin-left:350px;
+    margin-top:0;
+    margin-bottom:0;
+    font-weight:400px bold;
+    font-family: medium-content-serif-font, Georgia, Cambria, "Times New Roman", Times, serif;
+    line-height: 28px;
+    font-size: 21px;
+    color: rgba(41, 41, 41, 1);}
+h6{
+    margin-right:450px;
+    margin-left:350px;
+    margin-top:5px;
+    line-height: 24px;
+    font-size: 18px;
+    color:  rgba(117, 117, 117, 1);
+    font-weight: 300;
+    font-family: medium-content-sans-serif-font, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif;}
+.button{
+    margin-left:350px;
+    border-color: rgba(134, 132, 132, 1);
+    padding: 5px 12px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 4px;
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 300;
+    font-family: medium-content-sans-serif-font, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif;
+    color: rgba(134, 132, 132, 1);}
+
+.container1{display:inline-block}
+.container2{display:inline-block}
+.container3{display:inline-block}
