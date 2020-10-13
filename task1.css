@@ -132,3 +132,13 @@ h6 {
 .container3 {
     display:inline-block;
 }
+.a-vicki {
+    margin-left: 350px;
+    width: 100%;
+    background-color: rgb(201, 201, 201);
+    color: red;
+    text-decoration: underline;
+    font-size: 19px;
+    font-family: 'ff-meta-web-pro','ff-meta-web-pro-1', helvetica, arial;
+    line-height: 1.6;
+}
